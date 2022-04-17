@@ -1,0 +1,29 @@
+.container{
+    background-color: #00ffff;
+    padding: 20px;
+    width: 25%;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+}
+
+.heading{
+    color: #e50606;
+    font-weight: bold;
+}
+
+.current-number{
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.number{
+    width: 15px;
+    text-align: center;
+    overflow: hidden;
+}
